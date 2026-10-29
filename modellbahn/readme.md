@@ -22,6 +22,7 @@ Konfiguration und Quellcode.
 | [zDecoder](#zdecoder) | Schalten, Beleuchtung, Lichteffekte, Weichen und Servos | ESP32 NodeMCU, bis zu 16 Ausgänge | Weboberfläche über WLAN |
 | [cDecoder](#cdecoder) | Ein/Aus-, Impuls- und Blinkfunktionen | ATtiny85, bis zu 5 Ausgänge | DCC-Konfigurationsvariablen (CVs) |
 | [KirmesKontroller](#kirmeskontroller) | Kirmesmodelle und Karussells mit Licht, Bewegung und Sound | ESP32-S3, 8 digitale Ausgänge und 3 Servo-Ausgänge | Weboberfläche über WLAN |
+| [2x-Umschalter (Set/Reset)](https://github.com/minou65/2xUmschalter-Set-Reset-) | Schaltplan eines Set-Reset-Umschalters mit zwei 12-V-Relais. |
 
 **Welcher Decoder passt?** Für vielseitige Schalt- und Lichteffekte ist der
 zDecoder der Einstieg. Für kompakte Funktionsanwendungen mit CV-Konfiguration
